@@ -68,6 +68,3 @@ You can edit or replace it before saving.
 - Compatible with Linux/macOS. (Windows WSL works too)
 
 ---
-
-## License
-MIT
